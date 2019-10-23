@@ -47,6 +47,7 @@ export const IndexPageTemplate = ({
             padding: '0.25em',
           }}
         >
+        console.log({title})
           {title}
         </h1>
         <h3
